@@ -1,0 +1,1 @@
+print("WE've got a nice Git project!")
